@@ -16,6 +16,7 @@ Esoteric language based off of Genz slang cuz why not?
 - In tutorial hell dying over `if/else`? We got you with easy-to-understand `cuz`, `frick`, and `idgaf` keywords!
 - Find yourself using `/*` and `*/` to knock out shitcode? Use `nah, stop that` and `continue here`!
 - Need a cron job? Just spawn an NPC instead with `spawn npc called bob rn`
+- At W, we decide to have a different flavor just for the stanley girls! Now includes words like `slayy`, `yass`, `queen`, and `ick`!
 
 ## Frickin awesome examples
 
