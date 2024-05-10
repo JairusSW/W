@@ -17,7 +17,7 @@ Esoteric language based off of Genz slang cuz why not?
 - Find yourself using `/*` and `*/` to knock out shitcode? Use `nah, stop that` and `continue here`!
 - Need a cron job? Just spawn an NPC instead with `spawn npc called bob rn`
 - At W, we decide to have a different flavor just for the stanley girls! Now includes words like `slayy`, `yass`, `queen`, and `ick`!
-
+- Get bored on the job? Utilize W's full use of emojis!
 ## Frickin awesome examples
 
 You a boomer or millenial? Check out our WSV english translation (W Standard Version) [here](/translations/WSB.md)
@@ -48,12 +48,12 @@ side_quest crash_computer
     system_vibe: word
 
     vibe_check on system_vibe:
-        cuz system_vibe be "lit",
+        cuz system_vibe be "linux",
             say "sys too lit to quit fam!"
         frick system_vibe be "dead",
-            say "mid."
+            say "prolly was a mac"
         idgaf
-            say "bro took an L"
+            say "windows 💀"
             pls initiate_crash_sequence rn
 end side_quest
 
