@@ -67,7 +67,7 @@ side_quest crash_computer
     system_vibe: word
 
     vibe_check on system_vibe:
-        cuz system_vibe be "linux",
+        cuz system_vibe be "linux", 
             say "sys too lit to quit fam!"
         frick system_vibe be "wsl",
             say "best of both?",
@@ -81,5 +81,33 @@ end side_quest
 main_character do side_quest
 ```
 
+3. How to calculate fibonacci of 10!
+
+```
+side_quest fib
+    grab pp: stuf
+
+    cuz pp smol 2,
+        say "nah, stop that"
+        fml "its too smol"
+    
+    first be 0
+    second be 1
+    length be 2
+    next be 0
+
+    spawn npc bob
+        bob do while length < pp
+        next be first + second
+
+        first be second
+        second be next
+
+        index be index + 1
+
+end side_quest
+
+main_character do side_quest and n be 10
+```
 
 This is a joke if you want me to make this real, leave an issue telling me to make it real
