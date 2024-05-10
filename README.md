@@ -19,6 +19,8 @@ Esoteric language based off of Genz slang cuz why not?
 
 ## Frickin awesome examples
 
+You a boomer or millenial? Check out our WSV english translation (W Standard Version) [here](/translations/WSB.md)
+
 1. How to eliminate Brute Force attacks with W Lang!
 
 ```js
